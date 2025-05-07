@@ -5,6 +5,3 @@ intelligence undergoing a controlled test, the game blends environmental storyte
 and emotionally as they uncover the truth behind their identity. Built in Unity using C# and blender and audio tools like audio-mass and fonts tools like 
 1001fonts, protocol03 is a single-player puzzle game designed for players aged 16+, delivering a focused 90-minute journey through a carefully controlled 
 environment
-
-## gameplay walkthrough
-<!-- Failed to upload "Game Walkthrough.mp4" -->
